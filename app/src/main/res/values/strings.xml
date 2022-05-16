@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Apps for Everyday Use</string>
+    <string-array name="apps_list">
+        <item>Calculator</item>
+        <item>TBD</item>
+        <item>TBD</item>
+    </string-array>
+</resources>
